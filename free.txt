@@ -14,4 +14,4 @@ character.Speak "Hello, how are you?"
 Wscript.Sleep 15000
 character.Stop
 character.Play "Hide"
-
+Hide my life 
