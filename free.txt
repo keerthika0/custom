@@ -15,3 +15,4 @@ Wscript.Sleep 15000
 character.Stop
 character.Play "Hide"
 Hide my life 
+Hello how are you
